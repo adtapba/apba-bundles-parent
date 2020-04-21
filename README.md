@@ -1,3 +1,3 @@
-# Parent POM for APBA ServiceMix Bundles
+# Parent POM for bundles to be deployed on Apache ServiceMix 6.0.0
 
-It contains properties with versions of Apache ServiceMix 6.0.0 components and plugins required by all bundles
+It contains properties with versions of ServiceMix's components, plus plugins required by all bundles
