@@ -29,7 +29,7 @@
     
     <scm>
         <connection>scm:git:git://github.com/adtapba/apba-bundles-parent.git</connection>
-        <developerConnection>scm:git:ssh://github.com/adtapba/apba-bundles-parent.git</developerConnection>
+        <developerConnection>scm:git:git://github.com/adtapba/apba-bundles-parent.git</developerConnection>
         <url>https://github.com/adtapba/apba-bundles-parent</url>
     </scm>
     
