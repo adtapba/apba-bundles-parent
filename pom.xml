@@ -28,8 +28,8 @@
     </licenses>
     
     <scm>
-        <connection>scm:git:git://github.com/adtapba/apba-bundles-parent.git</connection>
-        <developerConnection>scm:git:git://github.com/adtapba/apba-bundles-parent.git</developerConnection>
+        <connection>scm:git:https://github.com/adtapba/apba-bundles-parent.git</connection>
+        <developerConnection>scm:git:https://github.com/adtapba/apba-bundles-parent.git</developerConnection>
         <url>https://github.com/adtapba/apba-bundles-parent</url>
     </scm>
     
